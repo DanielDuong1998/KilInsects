@@ -1,0 +1,4 @@
+#Wed Nov 27 10:13:25 ICT 2019
+base.0=D\:\\Documents_GameZen\\DietKien\\DietKien(new ver.)\\dietkienBackup\\android\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
